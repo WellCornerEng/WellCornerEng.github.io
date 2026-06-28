@@ -1,5 +1,17 @@
-# WellCorner Engineering
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>WellCorner Engineering</title>
+</head>
 
-Engineering notes on power systems, grid interconnection, EMT studies, AI, and data centers.
+<body>
 
-This is my learning journal.
+<h1>WellCorner Engineering</h1>
+
+<p>Engineering notes on power systems, AI, and data centers.</p>
+
+<p>This is my learning journal.</p>
+
+</body>
+</html>
